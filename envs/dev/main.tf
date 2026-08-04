@@ -1,5 +1,5 @@
 
-# Initial dev environment setuppppp
+# Initial dev environment setupppppp
 data "aws_caller_identity" "current" {}
 
 module "vpc" {
